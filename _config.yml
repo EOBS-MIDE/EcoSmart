@@ -3,10 +3,12 @@
 # Aquí va la configuración de tu sitio, como el título y la descripción
 title: EcoSmart - Iván Sanchez
 description: Caso práctico para el modulo 6 Transformación de las experiencia del cliente en "EcoSmart"
+theme: jekyll-theme-primer
 
+source: ./docs
 # --- Configuración del Menú de Navegación ---
 main_menu:
   - title: Inicio
-    url: ./docs/index
+    url: /index/
   - title: Situación Actual
-    url: ./docs/SituacionActual
+    url: /SituacionActual/
