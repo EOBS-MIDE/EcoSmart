@@ -1,7 +1,7 @@
 site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
 theme:
-  name: "bootstrap"
+  name: "readthedocs"
 nav:
   - Situación Actual: SituacionActual.md
 plugins:
