@@ -8,6 +8,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Añade esta línea para dar permisos de escritura
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
