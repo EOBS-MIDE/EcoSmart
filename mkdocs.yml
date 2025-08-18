@@ -1,7 +1,7 @@
 site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
 theme:
-  name: "cinder"
+  name: "bootstrap"
 nav:
   - Inicio: index.md
   - Situación Actual: SituacionActual.md
