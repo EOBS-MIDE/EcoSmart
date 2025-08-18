@@ -7,4 +7,3 @@ nav:
   - Situación Actual: SituacionActual.md
 plugins:
   - search
-  - mermaid2
