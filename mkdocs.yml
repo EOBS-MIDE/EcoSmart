@@ -4,6 +4,6 @@ theme:
   name: "material"
 nav:
   - Inicio: index.md
-  - Situación Actual: SituacionActual.md
+  - Situación Actual: SitSituacionActual.md
 plugins:
   - search
