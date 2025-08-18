@@ -1,0 +1,10 @@
+site_name: "EcoSmart - Iván Sanchez"
+site_author: "Iván Sanchez"
+theme:
+  name: "material"
+nav:
+  - Inicio: index.md
+  - Situación Actual: SituacionActual.md
+plugins:
+  - search
+  - mermaid2
