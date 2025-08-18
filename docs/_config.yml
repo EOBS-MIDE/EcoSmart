@@ -5,7 +5,7 @@ title: EcoSmart - Iván Sanchez
 description: Caso práctico para el modulo 6 Transformación de las experiencia del cliente en "EcoSmart"
 theme: jekyll-theme-primer
 
-source: ./docs
+#source: ./docs
 # --- Configuración del Menú de Navegación ---
 main_menu:
   - title: Inicio
