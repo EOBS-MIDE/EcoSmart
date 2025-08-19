@@ -3,6 +3,8 @@ site_author: "Iván Dario Sanchez Fonseca"
 theme:
   name: "readthedocs"
 nav:
-  - Situación Actual: SituacionActual.md
+  - Situación Actual: 
+    - Recorrido del cliente: situacionActual/SituacionActual.md
+    - Perfil del cliente: situacionActual/PerfilCliente.md
 plugins:
   - search
