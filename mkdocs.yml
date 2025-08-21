@@ -1,6 +1,7 @@
 site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
 site_url: https://eobs-mide.github.io/EcoSmart/
+repo_url: https://github.com/idsanchezf
 
 theme:
   name: "material"
