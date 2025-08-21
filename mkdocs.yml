@@ -5,11 +5,13 @@ site_url: https://eobs-mide.github.io/EcoSmart/
 theme:
   name: "material"
   #name: "readthedocs"
+  custom_dir: overrides/
   features:
     - navigation.tabs
     - navigation.sections
-version:
-    provider: Ivan Sanchez
+extra:
+  version:
+    provider: mike
     label: 1.0.0
 nav:
   - 1. Evaluación de la Situación Actual: 
