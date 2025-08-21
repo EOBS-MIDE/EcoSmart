@@ -3,8 +3,8 @@ site_author: "Iván Dario Sanchez Fonseca"
 theme:
   name: "readthedocs"
 nav:
-  - 01. Situación Actual: 
-    - Recorrido del cliente: situacionActual/SituacionActual.md
-    - Perfil del cliente: situacionActual/PerfilCliente.md
+  - 1. Evaluación de la Situación Actual: 
+    - Recorrido actual del cliente: situacionActual/SituacionActual.md
+    - Perfiles de cliente clave: situacionActual/PerfilCliente.md
 plugins:
   - search

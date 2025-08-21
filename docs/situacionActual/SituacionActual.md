@@ -5,3 +5,27 @@ El cliente digital actual está hiperconectado, informado y es más exigente que
 ## Recorrido del Cliente Actual (Customer Journey Map)
 
 ![alt text](image.png)
+
+```mermaid
+---
+config:
+  theme: neo-dark
+---
+journey
+title Emociones recorrido del cliente EcoSmart
+section Conciencia
+  Necesidad producto: 4
+  Busqueda producto: 2
+section Consideración
+  Información producto: 3
+  Sitio web EcoSmart: 3
+section Compra
+  Opciones: 3
+  Proceso de pago: 2
+section Uso del producto
+  Instalación: 4
+  Herramientas de uso: 2
+section Fidelización
+  Experiencia: 3
+  Satisfacción: 2
+```
