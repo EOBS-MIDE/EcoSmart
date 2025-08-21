@@ -10,3 +10,5 @@ plugins:
   - search
   - mermaid2
   - panzoom
+extra_css:
+  - extra.css
