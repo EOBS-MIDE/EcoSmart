@@ -1,11 +1,21 @@
 site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
+site_url: https://eobs-mide.github.io/EcoSmart/
+
 theme:
-  name: "readthedocs"
+  name: "material"
+  #name: "readthedocs"
+  features:
+    - navigation.tabs
+    - navigation.sections
+version:
+    provider: Ivan Sanchez
+    label: 1.0.0
 nav:
   - 1. Evaluación de la Situación Actual: 
     - Recorrido actual del cliente: situacionActual/SituacionActual.md
     - Perfiles de cliente clave: situacionActual/PerfilCliente.md
+  - 2. Definición de Objetivos y Estrategia de Transformación Digital:
 plugins:
   - search
   - mermaid2
