@@ -6,6 +6,21 @@ El cliente digital actual está hiperconectado, informado y es más exigente que
 
 ![alt text](image.png)
 
+## Emociones recorrido del cliente EcoSmart
+
+Para visualizar el gráfico, realizar:
+
+1. Para pantalla táctil, utilice los dedos para hacer zoom y moverse en el gráfico.
+2. Para pantallas convencionales, oprimir la tecla alt + scroll del mouse, ubicando el puntero del mouse en la sección que desee ampliar.
+
+Emociones relacionadas:
+
+* :blush: Satisfecho
+* :confused: Poco Satisfecho
+* :disappointed: Insatisfecho
+
+
+
 ```mermaid
 ---
 config:
