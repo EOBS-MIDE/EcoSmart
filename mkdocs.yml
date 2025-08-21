@@ -8,3 +8,4 @@ nav:
     - Perfiles de cliente clave: situacionActual/PerfilCliente.md
 plugins:
   - search
+  - mermaid
