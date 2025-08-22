@@ -18,7 +18,7 @@ nav:
   - 1. Evaluación de la Situación Actual: 
     - Recorrido actual del cliente: situacionActual/SituacionActual.md
     - Perfiles de cliente clave: situacionActual/PerfilCliente.md
-  - 2. Definición de Objetivos y Estrategia de Transformación Digital:
+  - 2. Definición de Objetivos y Estrategia:
     - Objetivos estrategicos: objetivosEstrategia/ObjetivosEstrategicos.md
 plugins:
   - search
