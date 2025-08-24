@@ -17,3 +17,7 @@
   font-size: 0.9em;
   color: #555; /* Un color de texto oscuro */
 }
+
+.texto-justificado {
+  text-align: justify;
+}

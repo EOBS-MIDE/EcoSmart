@@ -20,6 +20,8 @@ nav:
     - Perfiles de cliente clave: situacionActual/PerfilCliente.md
   - 2. Definición de Objetivos y Estrategia:
     - Objetivos estrategicos: objetivosEstrategia/ObjetivosEstrategicos.md
+    - Modelo de trabajo: objetivosEstrategia/ModeloTrabajo.md
+    #- Estrategia de marketing digital: objetivosEstrategia/EstrategiaMarketingDigital.md
 plugins:
   - search
   - mermaid2
