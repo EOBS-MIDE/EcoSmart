@@ -1,6 +1,6 @@
 # OKRs para la Transformación Digital de EcoSmart 🎯
 
-
+El plan de transformación digital de EcoSmart comienza con una visión clara de los objetivos a alcanzar. En esta sección, se presenta una estrategia de Objetivos y Resultados Clave (OKRs) para guiar la empresa en su camino hacia una experiencia del cliente (CX) superior. Los OKRs propuestos están diseñados para ser medibles y accionables, permitiendo a EcoSmart no solo mejorar sus métricas de negocio, sino también construir una relación más sólida y duradera con sus clientes. Al optimizar el recorrido del cliente y la eficiencia operativa, esta estrategia busca transformar la visión de EcoSmart en una realidad exitosa, impulsando el crecimiento y la lealtad en un mercado competitivo.
 
 | Objetivo | Key Result (Resultado Clave) | Forma de Medir (KPIs) |
 | :--- | :--- | :--- |
