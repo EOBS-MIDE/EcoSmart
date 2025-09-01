@@ -20,6 +20,7 @@ Emociones relacionadas:
 * :confused: Poco Satisfecho
 * :disappointed: Insatisfecho
 
+<br>
 
 ```mermaid
 ---
@@ -44,3 +45,5 @@ section Fidelización
   Experiencia: 3
   Satisfacción: 2
 ```
+
+</br>
