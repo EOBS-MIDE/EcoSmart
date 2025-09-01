@@ -25,6 +25,12 @@ nav:
     - Recorrido ideal del cliente: situacionIdeal/mapaExperienciaFutura.md
   - 4. Rediseño Puntos de Contacto:
     - Rediseño de Puntos de Contacto con Tecnologías Digitales: redisenioPuntosContacto/redisenioPuntosContacto.md 
+  - 5. Estrategia de Captación y Fidelización:
+    - Estrategia de Captación: estrategiaCaptacionFidelizacion/estrategiaCaptacion.md
+    - Estrategia de Fidelización: estrategiaCaptacionFidelizacion/estrategiaFidelizacion.md
+  # - 6. Implementación y Medición:
+  #   - Plan de Implementación: implementacionMedicion/planImplementacion.md
+  #   - Métricas y KPIs: implementacionMedicion/metricasKPIs.md  
 plugins:
   - search
   - mermaid2
