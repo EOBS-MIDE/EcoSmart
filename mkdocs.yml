@@ -2,7 +2,6 @@ site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
 site_url: https://eobs-mide.github.io/EcoSmart/
 repo_url: https://github.com/EOBS-MIDE/EcoSmart/
-about_me: https://github.com/idsanchezf
 copyright: "Copyright &copy; 2025 - Iván Dario Sanchez Fonseca - [Ver en GitHub](https://github.com/EOBS-MIDE/EcoSmart/)"
 
 theme:
