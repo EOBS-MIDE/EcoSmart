@@ -9,9 +9,10 @@ theme:
   #name: "readthedocs"
   custom_dir: overrides/
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    # - navigation.tabs
+    # - navigation.sections
+    # - navigation.expand
+    - navigation.top
 extra:
   version:
     label: 1.0.0
