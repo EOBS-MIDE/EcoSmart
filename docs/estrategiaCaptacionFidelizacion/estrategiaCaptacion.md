@@ -7,6 +7,11 @@ Para captar nuevos clientes, EcoSmart debe desarrollar una estrategia que optimi
 
 ![alt text](image-3.png)
 
+---
+<p class="texto-justificado">
+A continuación, se presenta un roadmap de 12 meses para la implementación de la estrategia de captación de EcoSmart, dividida en trimestres y enfocada en la optimización de canales digitales, SEO y remarketing.
+</p>
+
 ```mermaid
 ---
 config:
@@ -15,32 +20,14 @@ config:
 gantt
     title Plan estrategia de captación de clientes
     dateFormat  YYYY-MM-DD
+    axisFormat %Y-%m
 
     section Q1
-        Análisis e investigación : a1, 2026-01-01, 30d
-        Optimización y configuración : a2, 2026-02-01, 28d
-        Lanzamiento y recopilación : a3, 2026-03-01, 30d
+        Sentar las bases : a1, 2026-01-01, 90d
     section Q2
-        Análisis de Datos y desarrollo contenido : a4, 2026-04-01, 30d
-        Anuncios y contenido especifico : a5, 2026-05-01, 30d
-        Evaluación y refinar : a6, 2026-06-01, 30d
-```
-
-```mermaid
----
-config:
-  theme: forest
----
-gantt
-    title Plan estrategia de captación de clientes
-    dateFormat  YYYY-MM-DD
-    
+        Acelerar el Crecimiento : a2, 2026-04-01, 90d
     section Q3
-        Colaboraciones : a7, 2026-07-01, 30d
-        Campañas fidelización : a8, 2026-08-01, 30d
-        Análisis rendimiento : a9, 2026-09-01, 30d
+        Consolidación y Escalamiento : a3, 2026-07-01, 90d
     section Q4
-        Nuevas tecnologías y UX : a10, 2026-10-01, 30d
-        Ajuste presupuesto : a11, 2026-11-01, 30d
-        Planificación siguiente año : a12, 2026-12-01, 30d
+        Consolidación y Escalamiento : a4, 2026-10-01, 90d
 ```
