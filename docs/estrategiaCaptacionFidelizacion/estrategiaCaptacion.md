@@ -10,7 +10,7 @@ Para captar nuevos clientes, EcoSmart debe desarrollar una estrategia que optimi
 ```mermaid
 ---
 config:
-  theme: default
+  theme: forest
 ---
 gantt
     title Plan estrategia de captación de clientes
@@ -33,8 +33,4 @@ gantt
         Nuevas tecnologías y UX : a10, 2026-10-01, 30d
         Ajuste presupuesto : a11, 2026-11-01, 30d
         Planificación siguiente año : a12, 2026-12-01, 30d
-
-
-
-        
 ```
