@@ -2,6 +2,8 @@
 
 <p class="texto-justificado">
 Para captar nuevos clientes, EcoSmart debe desarrollar una estrategia que optimice varios canales digitales, con el fin de llegar a clientes potenciales en diferentes etapas de su proceso de decisión.
+
+Algunos pasos para contemplar en esta estrategia:
 </p>
 </br>
 
