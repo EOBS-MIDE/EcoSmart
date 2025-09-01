@@ -38,7 +38,7 @@ nav:
 plugins:
   - search
   - mermaid2
-  - panzoom
+  - mermaid-zoom
 extra_css:
   - extra.css
 markdown_extensions:
