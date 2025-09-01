@@ -1,5 +1,6 @@
 # EcoSmart
 
+<p class="texto-justificado">
 EcoSmart es una startup en el sector de productos de tecnología
 para el hogar sostenible, como sistemas de energía solar domésticos,
 dispositivos de ahorro de agua, electrodomésticos de bajo consumo
@@ -11,3 +12,4 @@ en un mercado cada vez más competitivo. Su visión es evolucionar
 la experiencia del cliente mediante la transformación digital, con la
 expectativa de mejorar tanto la captación como la satisfacción del
 cliente.
+</p>
