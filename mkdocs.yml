@@ -4,8 +4,8 @@ site_url: https://eobs-mide.github.io/EcoSmart/
 repo_url: https://github.com/idsanchezf
 
 theme:
-  name: "material"
-  #name: "readthedocs"
+  #name: "material"
+  name: "readthedocs"
   custom_dir: overrides/
   features:
     - navigation.tabs
@@ -21,6 +21,8 @@ nav:
   - 2. Definición de Objetivos y Estrategia:
     - Objetivos estrategicos: objetivosEstrategia/ObjetivosEstrategicos.md
     - Modelo de trabajo: objetivosEstrategia/ModeloTrabajo.md
+  - 3. Mapa de la Experiencia del Cliente Futura:
+    - Recorrido ideal del cliente: situacionIdeal/mapaExperienciaFutura.md
     #- Estrategia de marketing digital: objetivosEstrategia/EstrategiaMarketingDigital.md
 plugins:
   - search

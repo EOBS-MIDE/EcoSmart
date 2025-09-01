@@ -21,7 +21,6 @@ Emociones relacionadas:
 * :disappointed: Insatisfecho
 
 
-
 ```mermaid
 ---
 config:
@@ -30,16 +29,16 @@ config:
 journey
 title Emociones recorrido del cliente EcoSmart
 section Conciencia
-  Necesidad producto: 4
+  Necesidad producto: 3
   Busqueda producto: 2
 section Consideración
-  Información producto: 3
-  Sitio web EcoSmart: 3
+  Información producto: 2
+  Sitio web EcoSmart: 2
 section Compra
-  Opciones: 3
+  Opciones: 2
   Proceso de pago: 2
 section Uso del producto
-  Instalación: 4
+  Instalación: 3
   Herramientas de uso: 2
 section Fidelización
   Experiencia: 3
