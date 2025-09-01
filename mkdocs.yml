@@ -27,8 +27,8 @@ nav:
     #- Estrategia de marketing digital: objetivosEstrategia/EstrategiaMarketingDigital.md
 plugins:
   - search
-  - mermaid2
   - panzoom
+  - mermaid2
 extra_css:
   - extra.css
 markdown_extensions:
