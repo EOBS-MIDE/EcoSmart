@@ -14,16 +14,27 @@ config:
 ---
 gantt
     title Plan estrategia de captación de clientes
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    section Q1 Sentar Bases
-        Análisis y Auditoria : a1, 2026-01-01, 22d
-        Investigación palabras clave : a2, 2026-01-01, 11d
-        Perfiles de Cliente : after a2, 11d
-        Creación contenido SEO : a4, after a1, 10d
-        Optimización On-Page : after a1, 20d
-        Configuración de Herramientas : after a4, 10d
-    section Another
-        Task in Another :2026-01-12, 12d
-        another task : after a1, 24d
+    dateFormat  YYYY-MM-DD
+    axisFormat %Y-%m
+
+    section Q1: 2026
+        Análisis e investigación : a1, 2026-01-01, 30d
+        Optimización y configuración : a2, 2026-02-01, 28d
+        Lanzamiento y recopilación : a3, 2026-03-01, 30d
+    section Q2: 2026 
+        Análisis de Datos y desarrollo contenido : a4, 2026-04-01, 30d
+        Anuncios y contenido especifico : a5, 2026-05-01, 30d
+        Evaluación y refinar : a6, 2026-06-01, 30d
+    section Q3: 2026 
+        Colaboraciones : a7, 2026-07-01, 30d
+        Campañas fidelización : a8, 2026-08-01, 30d
+        Análisis rendimiento : a9, 2026-09-01, 30d
+    section Q4: 2026 
+        Nuevas tecnologías y UX : a10, 2026-10-01, 30d
+        Ajuste presupuesto : a11, 2026-11-01, 30d
+        Planificación siguiente año : a12, 2026-12-01, 30d
+
+
+
+        
 ```
