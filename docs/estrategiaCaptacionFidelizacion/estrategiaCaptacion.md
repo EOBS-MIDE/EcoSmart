@@ -8,10 +8,6 @@ Para captar nuevos clientes, EcoSmart debe desarrollar una estrategia que optimi
 ![alt text](image-3.png)
 
 ```mermaid
----
-config:
-  theme: default
----
 gantt
     title Plan estrategia de captación de clientes
     dateFormat  YYYY-MM-DD
