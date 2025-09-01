@@ -11,6 +11,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
 extra:
   version:
     label: 1.0.0
