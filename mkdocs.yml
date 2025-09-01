@@ -23,7 +23,8 @@ nav:
     - Modelo de trabajo: objetivosEstrategia/ModeloTrabajo.md
   - 3. Mapa de la Experiencia del Cliente Futura:
     - Recorrido ideal del cliente: situacionIdeal/mapaExperienciaFutura.md
-    #- Estrategia de marketing digital: objetivosEstrategia/EstrategiaMarketingDigital.md
+  - 4. Rediseño Puntos de Contacto:
+    - Rediseño de Puntos de Contacto con Tecnologías Digitales: redisenioPuntosContacto/redisenioPuntosContacto.md 
 plugins:
   - search
   - mermaid2

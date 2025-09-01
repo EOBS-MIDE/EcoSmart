@@ -3,6 +3,18 @@
   height: auto;
 }
 
+.scale1000 .mermaid:hover svg {
+        max-width: 1000%
+}
+
+.scale500 .mermaid:hover svg {
+        max-width: 500%
+}
+
+.scale250 .mermaid:hover svg {
+        max-width: 250%
+}
+
 .twemoji {
   height: 1em;
   width: 1em;
