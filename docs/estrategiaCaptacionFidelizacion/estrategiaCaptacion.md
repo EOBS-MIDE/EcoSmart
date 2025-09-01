@@ -10,7 +10,7 @@ Para captar nuevos clientes, EcoSmart debe desarrollar una estrategia que optimi
 ```mermaid
 ---
 config:
-  theme: forest
+  theme: default
 ---
 gantt
     title Plan estrategia de captación de clientes
