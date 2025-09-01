@@ -24,6 +24,17 @@ gantt
         Análisis de Datos y desarrollo contenido : a4, 2026-04-01, 30d
         Anuncios y contenido especifico : a5, 2026-05-01, 30d
         Evaluación y refinar : a6, 2026-06-01, 30d
+```
+
+```mermaid
+---
+config:
+  theme: forest
+---
+gantt
+    title Plan estrategia de captación de clientes
+    dateFormat  YYYY-MM-DD
+    
     section Q3
         Colaboraciones : a7, 2026-07-01, 30d
         Campañas fidelización : a8, 2026-08-01, 30d
