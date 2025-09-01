@@ -1,7 +1,7 @@
 site_name: "EcoSmart"
 site_author: "Iván Dario Sanchez Fonseca"
 site_url: https://eobs-mide.github.io/EcoSmart/
-repo_url: https://github.com/idsanchezf
+repo_url: https://github.com/EOBS-MIDE/EcoSmart/
 
 theme:
   #name: "material"
@@ -12,7 +12,6 @@ theme:
     - navigation.sections
 extra:
   version:
-    provider: mike
     label: 1.0.0
 nav:
   - 1. Evaluación de la Situación Actual: 
