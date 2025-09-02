@@ -8,7 +8,6 @@ La implementación de este pilar se basa en dos áreas clave: la recopilación d
 </p>
 
 </br>
-</br>
 
 ## Plan de Recopilación de Feedback Continuo del Cliente
 
