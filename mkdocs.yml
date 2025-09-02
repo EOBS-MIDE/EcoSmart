@@ -32,9 +32,8 @@ nav:
     - Estrategia de Fidelización: estrategiaCaptacionFidelizacion/estrategiaFidelizacion.md
   - 6. Gestión del Cambio y Capacitación:
     - Estrategia gestión del cambio: gestionCambio/gestionCambio.md
-  # - 6. Implementación y Medición:
-  #   - Plan de Implementación: implementacionMedicion/planImplementacion.md
-  #   - Métricas y KPIs: implementacionMedicion/metricasKPIs.md  
+  - 7. Monitoreo y Mejora Continua:
+    - Plan de Monitoreo y Mejora Continua: monitoreoMejoraContinua/monitoreoMejoraContinua.md  
 plugins:
   - search
   - panzoom
