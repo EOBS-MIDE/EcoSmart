@@ -37,8 +37,9 @@ nav:
   #   - Métricas y KPIs: implementacionMedicion/metricasKPIs.md  
 plugins:
   - search
-  - mermaid2
-  - mermaid-zoom
+  - panzoom
+  # - mermaid2
+  # - mermaid-zoom
 extra_css:
   - extra.css
 markdown_extensions:
